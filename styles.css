@@ -1,0 +1,27 @@
+.modal-text{
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.stripview{
+background-color: lightgray;
+}
+
+.photo-strip {
+    align-content: center;
+    background-color: white;
+    margin: 15px;
+}
+
+.photo-date {
+    color: gray;
+    align-content: right;
+}
+
+.photo-likes{
+    color: gray;
+}
+
+.photo-comments{
+    color: gray;
+}
